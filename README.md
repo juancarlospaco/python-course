@@ -47,6 +47,20 @@ Cuando se Forkea en tu cuenta, podras Editar, Renombrar, Mover, Copiar, Borrar, 
 ![Clone](img/cloning.jpg)
 
 <details title="Click here for English Language"><summary><b>EN</b></summary>
+The repo should have an exact copy on your GutHub account, now we clone it to work fixing Errors or Bugs!
+
+*Note: You will need to be connected to the internet in order to clone the repo.*
+
+From a Command Line Terminal, execute the following command to clone the repo on your GitHub account:
+
+   ```
+   git clone https://github.com/USER/python-course.git
+   ``` 
+   *Note that you need to replace 'USER' with your GitHub account username.*
+
+When it finishes the clone of the repo, you will see a new directory on your computer with the same contents that the repo.
+The Fork will remain accessible from the GitHub web page of your account via web browser.
+</details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
 El repo debe tener una copia igual en tu cuenta de GitHub, ahora lo clonaremos para trabajar arreglando los Errores o Bugs!
 
 *Nota: Deberas tener conexion a internet para poder clonar el repo.*
@@ -59,19 +73,7 @@ Desde una Terminal de Linea de Comandos, ejecuta el siguiente comando para clona
    *Importante cambia 'USER' con TU usuario de GitHub.*
 
 Cuando termine de clonar el repo, en tu computadora tendras una nueva carpeta con lo mismo que tiene el repo.
-</details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
-The repo should have an exact copy on your GutHub account, now we clone it to work fixing Errors or Bugs!
-
-*Note: You will need to be connected to the internet in order to clone the repo.*
-
-From a Command Line Terminal, execute the following command to clone the repo on your GitHub account:
-
-   ```
-   git clone https://github.com/USER/a-starter-task.git
-   ``` 
-   *Note that you need to replace 'USER' with your GitHub account username.*
-
-When it finishes the clone of the repo, you will see a new directory on your computer with the same contents that the repo.	
+El Fork quedara accesible desde la pagina de GitHub en tu cuenta via navegador web.
 </details>
 
 
@@ -101,6 +103,16 @@ Cuando funcione correctamente y no devuelva error Guardalo.
 
 
 # Push to GitHub
+
+
+
+
+
+
+
+
+
+
 
 1. Open an **LXTerminal** window by double-clicking on the desktop icon.
 2. Change directory to where your updated code file is located by typing `cd a-starter-task`.
