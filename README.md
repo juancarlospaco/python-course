@@ -34,11 +34,17 @@ Curso Python 3 Castellano AutoGuiado Automatizado para GitHub for Classrooms.
 - https://try.github.io
 - https://docs.python.org/3/tutorial
 - https://www.codecademy.com/learn/python
+- http://devdocs.io/python
+- https://stackoverflow.com/questions/tagged/python?sort=frequent
+- https://gist.github.com/search
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
 - https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf
 - https://training.github.com/kit/downloads/es/github-git-cheat-sheet.pdf
 - http://docs.python.org.ar/tutorial/3
 - https://www.codecademy.com/es/tracks/python-traduccion-al-espanol-america-latina-clone-1
+- http://devdocs.io/python
+- https://stackoverflow.com/questions/tagged/python?sort=frequent
+- https://gist.github.com/search
 </details>
 
 
