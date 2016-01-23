@@ -10,16 +10,18 @@ Curso Python 3 Castellano AutoGuiado Automatizado para GitHub for Classrooms.
 
 # Requisites
 
+![Checklist](img/checklist-icon.png)
+
 <details title="Click here for English Language"><summary><b>EN</b></summary>
 - Linux Operating System (Any Distribution, like Kubuntu, Arch, Fedora, etc. Its Free).
 - [GitHub Account](https://github.com/join) (Its Free).
-- Git (Depends on your Linux Distrition how to install it).
-- Python 3 (Depends on your Linux Distrition how to install it).
+- Git (Depends on your Linux Distrition how to install it, Its Free).
+- [Python 3](https://python.org) (Depends on your Linux Distrition how to install it, Its Free).
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
 - Sistema Operativo Linux (Cualquier Distribucion, como Kubuntu, Arch, Fedora, etc. Es Gratis).
 - [Cuenta de Usuario en GitHub](https://github.com/join) (Es Gratis).
-- Git (Depende de tu Distribucion Linux como se instala).
-- Python 3 (Depende de tu Distribucion Linux como se instala).
+- Git (Depende de tu Distribucion Linux como se instala, Es Gratis).
+- [Python 3](https://python.org) (Depende de tu Distribucion Linux como se instala, Es Gratis).
 </details>
 
 
@@ -135,4 +137,28 @@ puedes ver los cambios via navegador web en la pagina de tu repo.
 </details>
 
 
-![](command-commit.png)
+# Pull Request
+
+![PullRequest](img/pullrequest.jpg)
+
+<details title="Click here for English Language"><summary><b>EN</b></summary>
+Explore the repo..., see folders and files..., read the code...
+The tasks are divided by folders with numbers,
+the lower numbers are easy ones, the higher more complex,
+all of them have imperfections that makes them do not work correctly,
+choose a folder and start trying to fix it until you make it work.
+
+Edit the code with a text editor, test the code executing it with Python on your computer.
+
+when it works correclty and do not return errors save it.
+</details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
+Explora el repo..., mira las carpetas y archivos..., lee codigo...
+Los trabajos estan divididos en carpetas con numeros, 
+siendo los mas bajos relativamente faciles, los mas altos mas complejos,
+todos tienen imperfecciones por las cuales no funcionan completamente bien,
+elije una carpeta con trabajo y comienza a intentar resolverlo hasta hacerlo funcionar.
+
+Edita el codigo con un editor de texto, prueba el codigo ejecutandolo con python en tu computadora.
+
+Cuando funcione correctamente y no devuelva error Guardalo.
+</details>
