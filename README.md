@@ -106,7 +106,9 @@ Cuando funcione correctamente y no devuelva error Guardalo.
 
 # Push to GitHub
 
-![Pushing](img/pushing.jpg)
+![Pushing](img/pushing0.jpg)
+
+![Pushing](img/pushing1.jpg)
 
 <details title="Click here for English Language"><summary><b>EN</b></summary>
 Open a Command Line Terminal, change directory to where your updated fixed code file is located.
