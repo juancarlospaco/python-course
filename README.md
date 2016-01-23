@@ -1,6 +1,8 @@
 
 # python-course
 
+[![Build Status](https://travis-ci.org/juancarlospaco/python-course.svg?branch=master)](https://travis-ci.org/juancarlospaco/python-course "Take the Course and make this badge PASS!")
+
 <details title="Click here for English Language"><summary><b>EN</b></summary>
 Python 3 Course SelfGuided Automatized for GitHub for Classrooms.
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
