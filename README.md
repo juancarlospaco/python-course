@@ -25,6 +25,8 @@ Curso Python 3 Castellano AutoGuiado Automatizado para GitHub for Classrooms.
 
 # Fork this Repo
 
+![Fork](img/forking.jpg)
+
 <details title="Click here for English Language"><summary><b>EN</b></summary>
 Make a copy of this source code repository into your own GitHub account.
 A repository is a type of folder on GitHub/Git that handles Versions. 
