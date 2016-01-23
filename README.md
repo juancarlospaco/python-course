@@ -108,16 +108,29 @@ Cuando funcione correctamente y no devuelva error Guardalo.
 
 ![Pushing](img/pushing.jpg)
 
-1. Open an **LXTerminal** window by double-clicking on the desktop icon.
-2. Change directory to where your updated code file is located by typing `cd a-starter-task`.
-2. Next, configure your email address and name on your Raspberry Pi, so that when you commit your changes you can see who made the commit. Type:
+<details title="Click here for English Language"><summary><b>EN</b></summary>
+Open a Command Line Terminal, change directory to where your updated fixed code file is located.
 
-   ```
-   git config --global user.email "you@example.com"
-   git config --global user.name "Your Name"
-   ```
-3. Type `git add code.py` and press **enter**.
-4. Then type `git commit -m "my commit message"`. *Note that the commit message acts as a reminder for you or your collaborators about what you have done to the file.*
-5. Finally, type `git push` to finalise the commit to GitHub. You will be asked for your GitHub username and password in order to complete this step.
+- Execute `git status` to **see the current Status** of the local copy of your repo.
+- Execute `git commit -m "my commit message" file.py` to **Commit your changes** 
+*(Note that the commit message acts as a reminder for you or your collaborators about what you have done to the file).*
+- Finally, execute `git push` to **Push to GitHub**. 
+You will be asked for your GitHub username and password 
+*(Passwords are not shown on the Terminal for Security)*, 
+if user and password are Ok, it will Upload to your GitHub Repo Fork under your GitHub account,
+you can now view the changes via web browser on the page of your repo.
+</details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
+Abre una Terminal de Linea de Comandos, cambia de carpeta a la que tiene el codigo actualizado arreglado.
+
+- Ejecuta `git status` para **ver el estado actual** de la copia local de tu repo.
+- Ejecuta `git commit -m "mi mensaje de commit" archivo.py` para **Commitear tus cambios**
+*(Nota que el mensaje de commit actua como recordatorio para vos o tus colaboradores acerca de que es lo que hiciste en el archivo).*
+- Finalmente, ejecuta `git push` para **Pushear a GitHub**.
+Te preguntara tu usuario y password de GitHub
+*(Passwords no se muestran el la Terminal de Linea de Comandos por seguridad)*,
+si el usuario y password estan bien, este subira a tu Repo Fork de GitHub bajo tu cuenta de GitHub,
+puedes ver los cambios via navegador web en la pagina de tu repo.
+</details>
+
 
 ![](command-commit.png)
