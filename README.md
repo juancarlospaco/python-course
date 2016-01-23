@@ -139,26 +139,22 @@ puedes ver los cambios via navegador web en la pagina de tu repo.
 
 # Pull Request
 
-![PullRequest](img/pullrequest.jpg)
+![PullRequest](img/pullrequest0.jpg)
+
+![PullRequest](img/pullrequest1.jpg)
+
+![PullRequest](img/pullrequest2.jpg)
 
 <details title="Click here for English Language"><summary><b>EN</b></summary>
-Explore the repo..., see folders and files..., read the code...
-The tasks are divided by folders with numbers,
-the lower numbers are easy ones, the higher more complex,
-all of them have imperfections that makes them do not work correctly,
-choose a folder and start trying to fix it until you make it work.
-
-Edit the code with a text editor, test the code executing it with Python on your computer.
-
-when it works correclty and do not return errors save it.
+On the page of your repo with the fixes already working correctly find and click a **Pull Request** button.
+you have to select **from where, to where** send the Pull Request, 
+in this case you will select from your master repo *(the one under Your GitHub account with the Fixes)* 
+to the original master repo *(the one under My GitHub account without Fixes)*,
+Fill in the simple Form from the Pull Request with details of your work, and click Send Pull Request.
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
-Explora el repo..., mira las carpetas y archivos..., lee codigo...
-Los trabajos estan divididos en carpetas con numeros, 
-siendo los mas bajos relativamente faciles, los mas altos mas complejos,
-todos tienen imperfecciones por las cuales no funcionan completamente bien,
-elije una carpeta con trabajo y comienza a intentar resolverlo hasta hacerlo funcionar.
-
-Edita el codigo con un editor de texto, prueba el codigo ejecutandolo con python en tu computadora.
-
-Cuando funcione correctamente y no devuelva error Guardalo.
+En la pagina de tu repo con los arreglos ya funcionando correctamente encuentra y clickea el boton de **Pull Request**.
+Tenes que elejir **de donde, hacia donde** enviar el Pull request,
+en este casi elejir desde tu master repo *(el que esta bajo Tu cuenta de GitHub con los arreglos)*
+hacia el original master repo *(el que esta bajo Mi cuanta de GitHub sin arreglos)*,
+completa el simple formulario del Pull Request con detalles de tu trabajo, y clickea enviar Pull Request.
 </details>
