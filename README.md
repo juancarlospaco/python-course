@@ -79,6 +79,8 @@ El Fork quedara accesible desde la pagina de GitHub en tu cuenta via navegador w
 
 # Fix Bugs
 
+![BugFixing](img/bugfixing.jpg)
+
 <details title="Click here for English Language"><summary><b>EN</b></summary>
 Explore the repo..., see folders and files..., read the code...
 The tasks are divided by folders with numbers,
@@ -104,15 +106,7 @@ Cuando funcione correctamente y no devuelva error Guardalo.
 
 # Push to GitHub
 
-
-
-
-
-
-
-
-
-
+![Pushing](img/pushing.jpg)
 
 1. Open an **LXTerminal** window by double-clicking on the desktop icon.
 2. Change directory to where your updated code file is located by typing `cd a-starter-task`.
