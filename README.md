@@ -16,12 +16,12 @@ Curso Python 3 Castellano AutoGuiado Automatizado para GitHub for Classrooms.
 - Linux Operating System (Any Distribution, like Kubuntu, Arch, Fedora, etc. Its Free).
 - [GitHub Account](https://github.com/join) (Its Free).
 - Git (Depends on your Linux Distrition how to install it, Its Free).
-- [Python 3](https://python.org) (Depends on your Linux Distrition how to install it, Its Free).
+- [Python 3](https://python.org) (Depends on your Linux Distrition how to install it, No Python2, Its Free).
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
 - Sistema Operativo Linux (Cualquier Distribucion, como Kubuntu, Arch, Fedora, etc. Es Gratis).
 - [Cuenta de Usuario en GitHub](https://github.com/join) (Es Gratis).
 - Git (Depende de tu Distribucion Linux como se instala, Es Gratis).
-- [Python 3](https://python.org) (Depende de tu Distribucion Linux como se instala, Es Gratis).
+- [Python 3](https://python.org) (Depende de tu Distribucion Linux como se instala, No Python2, Es Gratis).
 </details>
 
 
@@ -33,13 +33,13 @@ Curso Python 3 Castellano AutoGuiado Automatizado para GitHub for Classrooms.
 Make a copy of this source code repository into your own GitHub account.
 A repository is a type of folder on GitHub/Git that handles Versions. 
 Making a copy of a repository is called **forking**. 
-On the web browser, on the GitHub page of your repo fork, click on the 'Fork' button (at the top of the screen on the right hand side), and it will automatically copy of everything in this repository will appear under your account. 
+On the web browser, on the GitHub page of the repo, click on the 'Fork' button (at the top of the screen on the right hand side), and it will automatically copy of everything in this repository will appear under your account. 
 When is Forked into your account, you can Edit, Rename, Move, Copy, Delete, Create, Add files and folders.
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
 Hace una copia de este repositorio de codigo fuente en tu cuenta de GitHub.
-Un repositorio es un tipo de carpeta en GitHub/Git que maneja Versions. 
+Un repositorio es un tipo de carpeta en GitHub/Git que maneja Versiones. 
 Hacer una copia de un repositorio se llama **forking**. 
-En el navegador web, en la pagina de GitHub de tu repo fork, click en el boton de 'Fork' (arriba a la derecha de la pagina), y esto automaticamente copiara todo en este repositorio y aparecera bajo tu cuenta. 
+En el navegador web, en la pagina de GitHub del repo, click en el boton de 'Fork' (arriba a la derecha de la pagina), y esto automaticamente copiara todo en este repositorio y aparecera bajo tu cuenta. 
 Cuando se Forkea en tu cuenta, podras Editar, Renombrar, Mover, Copiar, Borrar, Crear, Agregar archivos y carpetas.
 </details>
 
@@ -49,7 +49,8 @@ Cuando se Forkea en tu cuenta, podras Editar, Renombrar, Mover, Copiar, Borrar, 
 ![Clone](img/cloning.jpg)
 
 <details title="Click here for English Language"><summary><b>EN</b></summary>
-The repo should have an exact copy on your GutHub account, now we clone it to work fixing Errors or Bugs!
+Your repo fork is exact copy of the original but on on your GutHub account, 
+now we clone it into your computer to work fixing Errors or Bugs!
 
 *Note: You will need to be connected to the internet in order to clone the repo.*
 
@@ -60,10 +61,12 @@ From a Command Line Terminal, execute the following command to clone the repo on
    ``` 
    *Note that you need to replace 'USER' with your GitHub account username.*
 
-When it finishes the clone of the repo, you will see a new directory on your computer with the same contents that the repo.
+When it finishes the clone of the repo, 
+you will see a new directory on your computer with the same contents that the repo.
 The Fork will remain accessible from the GitHub web page of your account via web browser.
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
-El repo debe tener una copia igual en tu cuenta de GitHub, ahora lo clonaremos para trabajar arreglando los Errores o Bugs!
+Tu repo Fork es una copia igual al original pero en tu cuenta de GitHub, 
+ahora lo clonaremos en tu computadora para trabajar arreglando los Errores o Bugs!
 
 *Nota: Deberas tener conexion a internet para poder clonar el repo.*
 
@@ -71,7 +74,7 @@ Desde una Terminal de Linea de Comandos, ejecuta el siguiente comando para clona
 
    ```
    git clone https://github.com/USER/python-course.git
-   ``` 
+   ```
    *Importante cambia 'USER' con TU usuario de GitHub.*
 
 Cuando termine de clonar el repo, en tu computadora tendras una nueva carpeta con lo mismo que tiene el repo.
@@ -92,6 +95,10 @@ choose a folder and start trying to fix it until you make it work.
 
 Edit the code with a text editor, test the code executing it with Python on your computer.
 
+```
+python3 file.py
+```
+
 when it works correclty and do not return errors save it.
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
 Explora el repo..., mira las carpetas y archivos..., lee codigo...
@@ -101,6 +108,10 @@ todos tienen imperfecciones por las cuales no funcionan completamente bien,
 elije una carpeta con trabajo y comienza a intentar resolverlo hasta hacerlo funcionar.
 
 Edita el codigo con un editor de texto, prueba el codigo ejecutandolo con python en tu computadora.
+
+```
+python3 archivo.py
+```
 
 Cuando funcione correctamente y no devuelva error Guardalo.
 </details>
