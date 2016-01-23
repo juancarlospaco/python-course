@@ -3,7 +3,7 @@
 
 
 import os
-from subprocess import getoutput
+from subprocess import call
 
 
 def walkdir_to_filelist(where, target, omit):
@@ -19,4 +19,8 @@ def walkdir_to_filelist(where, target, omit):
 for exercise in walkdir_to_filelist(os.getcwd(), ".py", ".pyc"):
     print("\n" + "#" * 99)
     print(exercise)
-    print(getoutput("python3 '{}'".format(exercise)))
+    return_code = call("python3 '{}'".format(exercise), shell=True)
+    print(exercise, "FAIL" if return_code else "PASS")
+
+
+exit(return_code)
