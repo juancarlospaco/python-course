@@ -40,3 +40,74 @@ Cuando se Forkea en tu cuenta, podras Editar, Renombrar, Mover, Copiar, Borrar, 
 </details>
 
 
+# Clone your Repo
+
+<details title="Click here for English Language"><summary><b>EN</b></summary>
+El repo debe tener una copia igual en tu cuenta de GitHub, ahora lo clonaremos para trabajar arreglando los Errores o Bugs!
+
+*Nota: Deberas tener conexion a internet para poder clonar el repo.*
+
+Desde una Terminal de Linea de Comandos, ejecuta el siguiente comando para clonar el repo desde tu cuenta de GitHub:
+
+   ```
+   git clone https://github.com/USER/python-course.git
+   ``` 
+   *Importante cambia 'USER' con TU usuario de GitHub.*
+
+Cuando termine de clonar el repo, en tu computadora tendras una nueva carpeta con lo mismo que tiene el repo.
+</details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
+The repo should have an exact copy on your GutHub account, now we clone it to work fixing Errors or Bugs!
+
+*Note: You will need to be connected to the internet in order to clone the repo.*
+
+From a Command Line Terminal, execute the following command to clone the repo on your GitHub account:
+
+   ```
+   git clone https://github.com/USER/a-starter-task.git
+   ``` 
+   *Note that you need to replace 'USER' with your GitHub account username.*
+
+When it finishes the clone of the repo, you will see a new directory on your computer with the same contents that the repo.	
+</details>
+
+
+# Fix Bugs
+
+<details title="Click here for English Language"><summary><b>EN</b></summary>
+Explore the repo..., see folders and files..., read the code...
+The tasks are divided by folders with numbers,
+the lower numbers are easy ones, the higher more complex,
+all of them have imperfections that makes them do not work correctly,
+choose a folder and start trying to fix it until you make it work.
+
+Edit the code with a text editor, test the code executing it with Python on your computer.
+
+when it works correclty and do not return errors save it.
+</details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
+Explora el repo..., mira las carpetas y archivos..., lee codigo...
+Los trabajos estan divididos en carpetas con numeros, 
+siendo los mas bajos relativamente faciles, los mas altos mas complejos,
+todos tienen imperfecciones por las cuales no funcionan completamente bien,
+elije una carpeta con trabajo y comienza a intentar resolverlo hasta hacerlo funcionar.
+
+Edita el codigo con un editor de texto, prueba el codigo ejecutandolo con python en tu computadora.
+
+Cuando funcione correctamente y no devuelva error Guardalo.
+</details>
+
+
+# Push to GitHub
+
+1. Open an **LXTerminal** window by double-clicking on the desktop icon.
+2. Change directory to where your updated code file is located by typing `cd a-starter-task`.
+2. Next, configure your email address and name on your Raspberry Pi, so that when you commit your changes you can see who made the commit. Type:
+
+   ```
+   git config --global user.email "you@example.com"
+   git config --global user.name "Your Name"
+   ```
+3. Type `git add code.py` and press **enter**.
+4. Then type `git commit -m "my commit message"`. *Note that the commit message acts as a reminder for you or your collaborators about what you have done to the file.*
+5. Finally, type `git push` to finalise the commit to GitHub. You will be asked for your GitHub username and password in order to complete this step.
+
+![](command-commit.png)
