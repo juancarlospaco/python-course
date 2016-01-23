@@ -31,18 +31,20 @@ Curso Python 3 Castellano AutoGuiado Automatizado para GitHub for Classrooms.
 Make a copy of this source code repository into your own GitHub account.
 A repository is a type of folder on GitHub/Git that handles Versions. 
 Making a copy of a repository is called **forking**. 
-Click on the 'Fork' button (at the top of the screen on the right hand side), and it will automatically copy of everything in this repository will appear under your account. 
+On the web browser, on the GitHub page of your repo fork, click on the 'Fork' button (at the top of the screen on the right hand side), and it will automatically copy of everything in this repository will appear under your account. 
 When is Forked into your account, you can Edit, Rename, Move, Copy, Delete, Create, Add files and folders.
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
 Hace una copia de este repositorio de codigo fuente en tu cuenta de GitHub.
 Un repositorio es un tipo de carpeta en GitHub/Git que maneja Versions. 
 Hacer una copia de un repositorio se llama **forking**. 
-Click en el boton de 'Fork' (arriba a la derecha de la pagina), y esto automaticamente copiara todo en este repositorio y aparecera bajo tu cuenta. 
+En el navegador web, en la pagina de GitHub de tu repo fork, click en el boton de 'Fork' (arriba a la derecha de la pagina), y esto automaticamente copiara todo en este repositorio y aparecera bajo tu cuenta. 
 Cuando se Forkea en tu cuenta, podras Editar, Renombrar, Mover, Copiar, Borrar, Crear, Agregar archivos y carpetas.
 </details>
 
 
 # Clone your Repo
+
+![Clone](img/cloning.jpg)
 
 <details title="Click here for English Language"><summary><b>EN</b></summary>
 El repo debe tener una copia igual en tu cuenta de GitHub, ahora lo clonaremos para trabajar arreglando los Errores o Bugs!
