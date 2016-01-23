@@ -1,0 +1,18 @@
+
+sudo: false
+
+
+language: python
+
+
+python:
+    - 3.4
+
+
+os:
+    - linux
+
+
+script:
+    - chmod +x $TRAVIS_BUILD_DIR/.check_exercises.py
+    - python3 $TRAVIS_BUILD_DIR/.check_exercises.py
