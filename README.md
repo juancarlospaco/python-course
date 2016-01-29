@@ -180,12 +180,19 @@ puedes ver los cambios via navegador web en la pagina de tu repo.
 ![PullRequest](img/pullrequest2.jpg)
 
 <details title="Click here for English Language"><summary><b>EN</b></summary>
+**When you finish all of them, you can make 1 Pull Request.**
+The idea is to make 1 Pull Request per Person, not per file, not per folder.
+
+
 On the page of your repo with the fixes already working correctly find and click a **Pull Request** button.
 you have to select **from where, to where** send the Pull Request, 
 in this case you will select from your master repo *(the one under Your GitHub account with the Fixes)* 
 to the original master repo *(the one under My GitHub account without Fixes)*,
 Fill in the simple Form from the Pull Request with details of your work, and click Send Pull Request.
 </details><details title="Click aca para lenguage Espanol"><summary><b>ES</b></summary>
+**Cuando Termines Todos, puedes hacer 1 Pull Request.**
+La idea es hacer 1 Pull Request por Persona, no por archivo, no por carpeta.
+
 En la pagina de tu repo con los arreglos ya funcionando correctamente encuentra y clickea el boton de **Pull Request**.
 Tenes que elejir **de donde, hacia donde** enviar el Pull request,
 en este casi elejir desde tu master repo *(el que esta bajo Tu cuenta de GitHub con los arreglos)*
