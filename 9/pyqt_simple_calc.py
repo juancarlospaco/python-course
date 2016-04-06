@@ -38,3 +38,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# Docs: http://pyqt.sourceforge.net/Docs/PyQt5
